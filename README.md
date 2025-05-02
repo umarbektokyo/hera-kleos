@@ -10,7 +10,7 @@ Dynamic Puzzles & Combat: Master movement, strategy, and godly powers to overcom
 ## 🕹️ Controls
 Player 1 (Keyboard)
 - WAD / Arrow Keys – Move
-- D / Down Arrow – Enter gates
+- S / Down Arrow – Enter gates
 
 Player 2 (Mouse)
 - Move Mouse – Guide Hera
